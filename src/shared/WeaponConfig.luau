@@ -23,7 +23,8 @@ WeaponConfig.PulseRifle = {
 	Range = 300, -- alcance máximo do Raycast, em studs
 
 	-- Temperatura
-	HeatPerShot = 6, -- calor somado a cada tiro
+	HeatPerShot = 10, -- calor somado a cada tiro (+75/s atirando, -35/s esfriando:
+	-- superaquece depois de ~19 tiros seguidos, cerca de 2,5 s)
 	CoolingRate = 35, -- calor que cai por segundo (sempre, mesmo atirando)
 	OverheatThreshold = 100, -- ao chegar aqui, a arma superaquece
 	OverheatRecoveryTime = 1.5, -- segundos travada; depois o calor volta a 0

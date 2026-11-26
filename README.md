@@ -89,7 +89,7 @@ Na aba **Test**, em *Clients and Servers*, escolha **2 jogadores** e clique em *
 
 - [ ] Os dois nascem em primeira pessoa, com o mouse preso no centro.
 - [ ] Segurar o botão esquerdo atira em ritmo automático e o laser aparece.
-- [ ] A barra de calor sobe. Depois de uns 17 tiros seguidos aparece OVERHEAT e a arma trava por 1,5 s.
+- [ ] A barra de calor sobe. Depois de uns 19 tiros seguidos (~2,5 s) aparece OVERHEAT e a arma trava por 1,5 s.
 - [ ] A energia cai 2 por tiro e volta sozinha depois de 1 s sem atirar.
 - [ ] Cada jogador vê o laser do outro saindo da arma dele.
 - [ ] 6 acertos eliminam. O hitmarker fica vermelho no tiro que elimina e o aviso de eliminação aparece no topo.
