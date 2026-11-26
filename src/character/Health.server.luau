@@ -1,0 +1,8 @@
+-- Health (Script vazio, de propósito)
+--
+-- O Roblox coloca automaticamente um Script chamado "Health" em cada personagem,
+-- e esse script regenera 1% da vida por segundo. Quando existe um Script com o
+-- mesmo nome em StarterCharacterScripts, o nosso substitui o padrão.
+--
+-- Como este está vazio, a vida NÃO regenera sozinha. Só o servidor muda a vida,
+-- pelo CombatService. Não apague este arquivo.
